@@ -1,0 +1,27 @@
+html {
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  color: darkslategrey;
+}
+img {
+  padding: 40px;
+  border: 5px solid black;
+}
+#row {
+  display: flex;
+}
+#column {
+  flex: 50%;
+  height: 1500px;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+#netid {
+  text-align: center;
+  background-color: yellow;
+}
